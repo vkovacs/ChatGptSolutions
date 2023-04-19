@@ -1,0 +1,59 @@
+{
+  "trainData": [
+    {
+      "timestamp": 0,
+      "currentPosition": 0,
+      "currentUsage": 0
+    },
+    {
+      "timestamp": 1,
+      "currentPosition": 1,
+      "currentUsage": 50
+    },
+    {
+      "timestamp": 2,
+      "currentPosition": 3,
+      "currentUsage": 100
+    },
+    {
+      "timestamp": 3,
+      "currentPosition": 6,
+      "currentUsage": 150
+    },
+    {
+      "timestamp": 4,
+      "currentPosition": 10,
+      "currentUsage": 200
+    },
+    {
+      "timestamp": 5,
+      "currentPosition": 15,
+      "currentUsage": 250
+    },
+    {
+      "timestamp": 6,
+      "currentPosition": 21,
+      "currentUsage": 300
+    },
+    {
+      "timestamp": 7,
+      "currentPosition": 28,
+      "currentUsage": 350
+    },
+    {
+      "timestamp": 8,
+      "currentPosition": 36,
+      "currentUsage": 400
+    },
+    {
+      "timestamp": 9,
+      "currentPosition": 45,
+      "currentUsage": 450
+    },
+    {
+      "timestamp": 10,
+      "currentPosition": 55,
+      "currentUsage": 500
+    }
+  ]
+}
